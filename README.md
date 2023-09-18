@@ -1,2 +1,3 @@
-# rust-tut
-Rust tutorials
+# Rust tutorials
+
+* Basics: 
