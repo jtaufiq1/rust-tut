@@ -34,7 +34,8 @@ fn main() {
             Ordering::Greater => println!("Too big!"),
             Ordering::Equal => {
                 println!("You win!");
-                break;
+                std::process::exit(0);
+                //break;
             }
         }
     }
